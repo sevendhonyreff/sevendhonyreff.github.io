@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.biofarma.mpia.development",
+    "sha256_cert_fingerprints": ["08:5A:45:83:5F:02:28:6A:68:47:AC:EF:F8:C8:AF:5C:0C:10:2D:3A:AD:D0:F9:F6:BB:7B:69:F7:0E:D1:BB:BF"]
+  }
+}]
